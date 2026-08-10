@@ -80,7 +80,7 @@ body {
     color: #713f78;
 }
 
-#conteudo {
+conteudo {
     width: min(1180px, 92%);
     margin: 32px auto;
 }
@@ -216,7 +216,7 @@ table {
     border-radius: 14px;
 }
 
-th,
+
 td {
     padding: 13px;
     text-align: left;
@@ -349,7 +349,7 @@ button {
         grid-template-columns: repeat(2, 1fr);
     }
 
-    #conteudo {
+    conteudo {
         width: 92%;
     }
 
