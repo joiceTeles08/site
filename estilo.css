@@ -1,7 +1,6 @@
-```css
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap');
 
-* {
+ {
     box-sizing: border-box;
 }
 
@@ -326,9 +325,6 @@ button {
     margin: 5px;
 }
 
-
-/* TABLET */
-
 @media (max-width: 850px) {
 
     .header {
@@ -360,11 +356,8 @@ button {
     .hero {
         padding: 32px;
     }
+
 }
-
-
-/* CELULAR */
-
 @media (max-width: 560px) {
 
     body {
@@ -466,4 +459,3 @@ button {
         padding: 24px 15px;
     }
 }
-```
